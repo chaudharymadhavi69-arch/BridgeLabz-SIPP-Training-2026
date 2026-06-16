@@ -1,0 +1,8 @@
+public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter Number of Students: ");
+    int numberOfStudents = sc.nextInt();
+    int handshakes = calculateHandshakes(numberOfStudents);
+    System.out.println("Maximum Possible Handshakes = " + handshakes);
+    sc.close();
+}

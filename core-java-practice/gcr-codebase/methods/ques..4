@@ -1,0 +1,13 @@
+public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Enter a Number: ");
+    int number = sc.nextInt();
+    int result = checkNumber(number);
+    if (result == 1)
+        System.out.println("Positive Number");
+    else if (result == -1)
+        System.out.println("Negative Number");
+    else
+        System.out.println("Zero");
+    sc.close();
+}
