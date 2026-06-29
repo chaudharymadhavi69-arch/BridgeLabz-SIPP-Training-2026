@@ -1,0 +1,39 @@
+============================================
+          SCHOOL RESULT PORTAL
+============================================
+
+Report Generated on: Thu Jun 18 11:28:30 IST 2026
+--------------------------------------------
+
+Student Name: Rajesh Kumar
+Marks: 85.0 90.0 88.0 92.0 
+Average: 88.75
+Grade: A (Very Good)
+--------------------------------------------
+
+Student Name: Priya Sharma
+Marks: 92.0 88.0 95.0 89.0 
+Average: 91.00
+Grade: A+ (Excellent)
+--------------------------------------------
+
+Student Name: Amit Patel
+Marks: 78.0 82.0 80.0 76.0 
+Average: 79.00
+Grade: B (Good)
+--------------------------------------------
+
+Student Name: Sneha Gupta
+Marks: 95.0 92.0 94.0 96.0 
+Average: 94.25
+Grade: A+ (Excellent)
+--------------------------------------------
+
+Student Name: Vikram Singh
+Marks: 88.0 85.0 87.0 86.0 
+Average: 86.50
+Grade: A (Very Good)
+--------------------------------------------
+
+✓ Total students processed: 5
+✓ Report appended successfully to: report_card.txt

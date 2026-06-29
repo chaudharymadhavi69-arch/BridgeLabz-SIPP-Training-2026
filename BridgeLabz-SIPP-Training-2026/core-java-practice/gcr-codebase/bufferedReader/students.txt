@@ -1,0 +1,7 @@
+# Student Result Data
+# Format: StudentName,Math,English,Science,History
+Rajesh Kumar,85,90,88,92
+Priya Sharma,92,88,95,89
+Amit Patel,78,82,80,76
+Sneha Gupta,95,92,94,96
+Vikram Singh,88,85,87,86

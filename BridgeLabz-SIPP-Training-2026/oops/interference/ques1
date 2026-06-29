@@ -1,0 +1,7 @@
+class ques1 implements A, B {
+
+    @Override
+    public void display() {
+        System.out.println("C");
+    }
+}
