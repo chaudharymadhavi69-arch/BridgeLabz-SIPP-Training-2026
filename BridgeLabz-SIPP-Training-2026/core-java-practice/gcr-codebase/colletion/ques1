@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class ListIteratorExample {
+    public static void main(String[] args) {
+        // Step 1: Create a list
+        List<String> names = new ArrayList<>();
+        names.add("Madhavi");
+        names.add("Riya");
+        names.add("Aman"); 
+        System.out.println(names);
+        // Step 2: Get ListIterator
+        ListIterator<String> itr = names.listIterator();
+        while()
+        System.out.println(names);
+    }
+}
